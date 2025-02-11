@@ -1,4 +1,6 @@
 ![image](interstellar2-banner.jpg)
 
 <h2 align=center>Hello, welcome to my Github! 👋 </h2>
-<h3 align=center>I am currently a 3rd year Computer Science student at California State University, Fullerton. </h3>
+<h3 align=center>Pursuing a B.S. in Computer Science at California State University, Fullerton. </h3>
+
+I'm a 3rd year student with a passion for full stack development and currently diving deep into learning new technologies. I enjoy programming in my free time and am hoping to expand my porfolio. Beyond coding, I'm a huge **space enthusiast** — Interstellar is my favorite movie, and I'm always fascinated by space exploration and astrophysics. Looking forward to collaborate! 🚀
