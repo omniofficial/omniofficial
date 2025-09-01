@@ -6,7 +6,8 @@
 I'm a 4th year student with a passion for full stack development. I enjoy programming in my free time and am hoping to expand my porfolio. Beyond coding, I'm a huge **space enthusiast**. Interstellar is my favorite movie, and I'm always fascinated by space exploration. Looking forward to collaborate! 🚀
 
 <ul>
-  <li>**Discord:** <code>omniofficial</code>
+  <li>Add me on discord: <code>omniofficial</code>
+  <li>Check our my resume: TBD
 </ul>
 
 
