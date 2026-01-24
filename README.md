@@ -7,7 +7,7 @@ I'm a 4th year student with a passion for full stack development. I enjoy progra
 
 <ul>
   <li>Add me on discord: <code>omniofficial</code>
-  <li>Check out my resume: TBD
+  <li>Check out my <a href="https://github.com/omniofficial/resume/blob/main/resume.pdf">resume</a> 📄
 </ul>
 
 
