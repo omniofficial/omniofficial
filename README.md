@@ -3,7 +3,7 @@
 # Hey, I'm Adrian! 👋
 
 <p>
-Earning a B.S. in Computer Science @ California State University, Fullerton. Incoming M.S. in Computer Science @ Georgia Tech.
+B.S. in Computer Science @ California State University, Fullerton. Incoming M.S. in Computer Science @ Georgia Tech.
 </p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -20,7 +20,7 @@ Earning a B.S. in Computer Science @ California State University, Fullerton. Inc
 </p>
 
 ## About Me
-I'm a 4th year student with a passion for full stack development. I enjoy programming in my free time and am hoping to expand my porfolio. Beyond coding, I'm a huge **space enthusiast**. Interstellar is my favorite movie, and I'm always fascinated by space exploration. Looking forward to collaborate, send me your ideas! 🚀
+I'm a incoming graduate student with a passion for full stack development. I enjoy programming in my free time and am hoping to expand my porfolio. Beyond coding, I'm a huge **space enthusiast**. Interstellar is my favorite movie, and I'm always fascinated by space exploration. Looking forward to collaborate, send me your ideas! 🚀
 
 ## Connect with me
 <ul>
