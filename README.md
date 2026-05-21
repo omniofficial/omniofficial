@@ -20,7 +20,7 @@ B.S. in Computer Science @ California State University, Fullerton. Incoming M.S.
 </p>
 
 ## About Me
-I'm a incoming graduate student with a passion for full stack development. I enjoy programming in my free time and am hoping to expand my porfolio. Beyond coding, I'm a huge **space enthusiast**. Interstellar is my favorite movie, and I'm always fascinated by space exploration. Looking forward to collaborate, send me your ideas! 🚀
+I'm an incoming graduate student with a passion for full stack development. I enjoy programming in my free time and am hoping to expand my porfolio. Beyond coding, I'm a huge **space enthusiast**. Interstellar is my favorite movie, and I'm always fascinated by space exploration. Looking forward to collaborate, send me your ideas! 🚀
 
 ## Connect with me
 <ul>
