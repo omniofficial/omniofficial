@@ -30,7 +30,7 @@ I'm an incoming graduate student with a passion for full stack development. I en
 </ul>
 
 > [!IMPORTANT]
-> Additional information about my projects, experience, and background can be found on my <a href="https://portfolio-tau-liart-ro4lomjcb0.vercel.app/">portfolio site.</a>
+> Additional information about my projects, experience, and background can be found on my <a href="https://portfolio-tau-liart-ro4lomjcb0.vercel.app/" target="_blank">portfolio site.</a>
 
 ---
 
